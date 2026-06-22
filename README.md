@@ -40,7 +40,7 @@ I am an Electrical Engineer and M.Sc. researcher with experience in computationa
 
 📫 Connect with Me
 
-- LinkedIn: www.linkedin.com/in/diegohenriquearaujo
-- Email: dharaujo22@gmail.com
+- LinkedIn: [linkedin.com/in/diegohenriquearaujo](https://www.linkedin.com/in/diegohenriquearaujo)
+- Email: [dharaujo22@gmail.com](mailto:dharaujo22@gmail.com)
 
 "Engineering, Artificial Intelligence, and Cloud Computing working together to build intelligent and scalable solutions."

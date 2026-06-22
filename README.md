@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Diego Henrique de Araújo 👋
 
-<!--
-**dharaujo22-sketch/dharaujo22-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Electrical Engineer | 🎓 M.Sc. Researcher | ☁️ AWS & AI Enthusiast
 
-Here are some ideas to get you started:
+I am an Electrical Engineer and M.Sc. researcher with experience in computational electromagnetics, machine learning, and industrial automation. Currently, I am transitioning my career toward Cloud Computing and Artificial Intelligence, combining my engineering background with modern cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Areas of Interest
+
+☁️ AWS Cloud Computing
+🤖 Artificial Intelligence and Machine Learning
+⚡ Electrical Engineering and Industrial Automation
+🧮 Computational Electromagnetics (FEM)
+📊 Optimization and Data Analysis
+
+☁️ AWS Hands-on Labs
+
+- AWS STS Temporary Credentials
+- AWS Monitoring and Auditing
+- AWS Elastic Beanstalk
+
+🔬 Featured Projects
+
+- Virtual Sensor for Induction Motors using Machine Learning and FEM
+- Electromagnetic Modeling using Finite Element Method
+- Cloud-native AI Engineering Projects
+- Forest Planning Optimization using Linear Programming
+
+🌱 Currently Learning
+
+- AWS Solutions Architect Associate
+- Cloud Security and IAM
+- Infrastructure as Code (IaC)
+- DevOps and Cloud-Native Architectures
+
+📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/diegohenriquearaujo
+- Email: dharaujo22@gmail.com
+
+"Engineering, Artificial Intelligence, and Cloud Computing working together to build intelligent and scalable solutions."

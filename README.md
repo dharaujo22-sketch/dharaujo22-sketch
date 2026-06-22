@@ -1,3 +1,9 @@
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
+
 Hi, I'm Diego Henrique de Araújo 👋
 
 ⚡ Electrical Engineer | 🎓 M.Sc. Researcher | ☁️ AWS & AI Enthusiast
